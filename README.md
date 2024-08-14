@@ -2,6 +2,8 @@
 
 **Company:** CODTECH IT SOLUTIONS
 
+**ID:** CT6WDS1596
+
 **Domain:** FRONTEND DEVELOPMENT
 
 **Duration:** AUGUST 5th, 2024 to SEPTEMBER 20th, 2024
